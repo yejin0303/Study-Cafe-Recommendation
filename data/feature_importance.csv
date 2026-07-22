@@ -1,0 +1,31 @@
+﻿model,feature,importance,coefficient
+Logistic Regression,hours_score,0.417647,-0.417647
+Logistic Regression,체류 적합성_score,0.385101,0.385101
+Logistic Regression,조용함_score,0.324073,0.324073
+Logistic Regression,좌석_score,0.315468,0.315468
+Logistic Regression,rating_score,0.242368,0.242368
+Logistic Regression,콘센트_score,0.208823,-0.208823
+Logistic Regression,와이파이_score,0.208823,-0.208823
+Logistic Regression,혼잡도_score,0.207459,-0.207459
+Logistic Regression,공부 적합성_score,0.091185,0.091185
+Logistic Regression,영업시간_score,0.073607,-0.073607
+Logistic Regression,가격대_score,0.016747,0.016747
+Logistic Regression,review_count,0.010085,-0.010085
+Logistic Regression,review_confidence,0.002343,-0.002343
+Logistic Regression,walk_min,0.001505,-0.001505
+Logistic Regression,dist_from_univ_m,0.001477,-0.001477
+Random Forest,조용함_score,0.242986,
+Random Forest,좌석_score,0.152968,
+Random Forest,review_count,0.124389,
+Random Forest,dist_from_univ_m,0.116521,
+Random Forest,rating_score,0.086542,
+Random Forest,체류 적합성_score,0.085966,
+Random Forest,walk_min,0.07414,
+Random Forest,review_confidence,0.051798,
+Random Forest,공부 적합성_score,0.043515,
+Random Forest,가격대_score,0.009991,
+Random Forest,혼잡도_score,0.007505,
+Random Forest,영업시간_score,0.003678,
+Random Forest,콘센트_score,0.0,
+Random Forest,와이파이_score,0.0,
+Random Forest,hours_score,0.0,

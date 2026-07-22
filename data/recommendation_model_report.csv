@@ -1,0 +1,3 @@
+﻿model,n_samples,n_features,accuracy,precision,recall,f1
+Logistic Regression,61,15,0.9375,1.0,0.8571,0.9231
+Random Forest,61,15,0.875,1.0,0.7143,0.8333

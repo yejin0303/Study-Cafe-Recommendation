@@ -1,0 +1,9 @@
+﻿cafe_id,kakao_name,naver_name,name_similarity,match_status,kakao_place_url,naver_map_url
+C016,몬데랜시,몬데랜시 역북동 디저트카페,0.5,ambiguous,http://place.map.kakao.com/1744611078,https://map.naver.com/p/entry/place/1830017295
+C034,스타벅스 용인역북점,,0.0,manual_check,http://place.map.kakao.com/810882833,https://map.naver.com/p/entry/place/4382073
+C046,웰빙카페,레드브릭101,0.0,manual_check,http://place.map.kakao.com/595241025,https://map.naver.com/p/entry/place/1358786585
+C050,단오,단오위캔즈,0.571,ambiguous,http://place.map.kakao.com/1749667941,https://map.naver.com/p/entry/place/1727424626
+C057,스타벅스 용인시청DT점,,0.0,manual_check,http://place.map.kakao.com/935742945,https://map.naver.com/p/entry/place/3540479
+C090,스타벅스 용인상하DT점,,0.0,manual_check,http://place.map.kakao.com/711936960,https://map.naver.com/p/entry/place/3537715
+C093,더노벰버라운지 기흥점,The november 라운지 기흥점,0.444,ambiguous,http://place.map.kakao.com/999618594,https://map.naver.com/p/entry/place/2036467628
+C097,카페그라시아,카페 그라시아(Cafe Gratia),0.545,ambiguous,http://place.map.kakao.com/1891111284,https://map.naver.com/p/entry/place/1084322132

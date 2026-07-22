@@ -1,0 +1,101 @@
+﻿cafe_id,search_query,naver_place_id,naver_name,rating,review_count,business_hours,close_hour,naver_map_url,place_kind,collected_reviews
+C001,커스텀커피 역북점 용인시 처인구,1764797627,커스텀커피 역북점,4.79,933.0,08:40 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1764797627,restaurant,12
+C002,카페만월경 용인명지대역점 용인시 처인구,1675991275,카페만월경 용인명지대역점,0.0,3.0,,,https://map.naver.com/p/entry/place/1675991275,restaurant,2
+C003,어웨이크키친 역북점 용인시 처인구,,,,,,,,,0
+C004,밀크팜747 용인시 처인구,1070270722,밀크팜74.7,0.0,187.0,10:30 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1070270722,restaurant,14
+C005,홀홀베이크샵 용인시 처인구,2025484015,홀홀베이크샵,0.0,34.0,12:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/2025484015,restaurant,11
+C006,달롱도르요거트아이스크림 역북점 용인시 처인구,1889295145,달롱도르 요거트 아이스크림 역북점,0.0,6,16:00 ~ 02:00,26.0,https://map.naver.com/p/entry/place/1889295145,restaurant,6
+C007,브라운리퀴드 용인시 처인구,1224940488,브라운리퀴드,4.76,189,10:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1224940488,restaurant,9
+C008,달다미로 용인시 처인구,1480248650,달다미로,5.0,208,12:30 ~ 19:00,19.0,https://map.naver.com/p/entry/place/1480248650,restaurant,11
+C009,꿀잼키즈룸 용인역북점 용인시 처인구,1298264758,꿀잼키즈룸 용인역북점,0.0,212,09:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1298264758,restaurant,25
+C010,반달커피 역북점 용인시 처인구,1955557327,반달커피 마평점,4.56,76,10:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1955557327,restaurant,3
+C011,더벤티 용인역북점 용인시 처인구,1482036986,더벤티 용인역북점,0.0,515.0,09:00 ~ 21:30,21.5,https://map.naver.com/p/entry/place/1482036986,restaurant,9
+C012,19티 용인역북점 용인시 처인구,,,,,,,,,0
+C013,요거트월드 역북점 용인시 처인구,1787771281,요거트월드 역북점,0.0,63.0,11:00 ~ 01:00,25.0,https://map.naver.com/p/entry/place/1787771281,restaurant,9
+C014,루이지나 용인시 처인구,,,,,,,,,0
+C015,컴포즈커피 용인명지대점 용인시 처인구,1183157490,컴포즈커피 용인명지대점,4.63,992.0,09:00 ~ 18:00,18.0,https://map.naver.com/p/entry/place/1183157490,restaurant,6
+C016,몬데랜시 용인시 처인구,1830017295,몬데랜시 역북동 디저트카페,0.0,74.0,11:00 ~ 15:00,15.0,https://map.naver.com/p/entry/place/1830017295,restaurant,12
+C017,공차 용인역북점 용인시 처인구,1742653002,공차 용인역북점,4.44,1628.0,10:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1742653002,restaurant,7
+C018,러블리파이마카롱 용인시 처인구,1204840219,러블리 파이 마카롱,4.34,371.0,10:30 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1204840219,restaurant,10
+C019,다다온족욕찜질카페 용인시 처인구,2018886597,다다온족욕찜질카페,0.0,116.0,11:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/2018886597,restaurant,21
+C020,엔제리너스 롯데시네용인역북점 용인시 처인구,,,,,,,,,0
+C021,딸기가좋아 용인점 용인시 처인구,1184699820,딸기가좋아 용인점,4.5,1456.0,11:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1184699820,restaurant,10
+C022,HED커피 용인시 처인구,,,,,,,,,0
+C023,보드빌 용인시 처인구,1729064919,보드빌,4.57,147.0,12:30 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1729064919,restaurant,12
+C024,원더플레이키즈 용인점 용인시 처인구,1283333088,원더플레이키즈 용인점,0.0,195.0,09:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1283333088,restaurant,13
+C025,설빙 경기용인역북점 용인시 처인구,1067407907,설빙 용인역북점,4.59,1325.0,11:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1067407907,restaurant,8
+C026,클라드커피 용인시 처인구,1299081119,클라드커피,0.0,118,11:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1299081119,restaurant,10
+C027,드롭탑 용인역북점 용인시 처인구,1000559258,드롭탑 용인역북점,4.15,413,09:30 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1000559258,restaurant,7
+C028,메가번 용인역북점 용인시 처인구,2081597006,메가번 용인역북점,0.0,15,10:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/2081597006,restaurant,6
+C029,커피인류 용인역북점 용인시 처인구,1999017894,커피인류 용인역북점,0.0,159,08:30 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1999017894,restaurant,10
+C030,지니어스 용인시 처인구,1079357919,카페지니어스,0.0,726,10:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1079357919,restaurant,10
+C031,빽다방 용인역북남부점 용인시 처인구,1431723367,빽다방 용인역북남부점,4.3,1800.0,08:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1431723367,restaurant,8
+C032,우지커피 용인역북점 용인시 처인구,2074674579,우지커피 용인역북점,0.0,24.0,08:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/2074674579,restaurant,10
+C033,사실빙 용인역북점 용인시 처인구,2086620946,사실빙 용인역북점,0.0,2.0,11:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/2086620946,restaurant,4
+C034,스타벅스 용인역북점 용인시 처인구,4382073,,,,,,https://map.naver.com/p/entry/place/4382073,restaurant,0
+C035,하이오커피 용인역북점 용인시 처인구,1161417048,하이오커피 용인역북점,0.0,286.0,08:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1161417048,restaurant,6
+C036,레드버튼 용인역북점 용인시 처인구,1438947731,보드게임카페 레드버튼 용인역북점,0.0,488.0,13:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1438947731,restaurant,10
+C037,메가MGC커피 용인역북점 용인시 처인구,1016043923,메가MGC커피 용인역북점,4.43,1221.0,08:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1016043923,restaurant,7
+C038,카페일리터 처인점 용인시 처인구,,,,,,,,,0
+C039,투썸플레이스 용인역북점 용인시 처인구,1042222117,투썸플레이스 용인역북점,4.41,1338.0,09:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1042222117,restaurant,10
+C040,욤카페 역북점 용인시 처인구,1442164514,욤카페 역북점,0.0,87.0,,,https://map.naver.com/p/entry/place/1442164514,restaurant,9
+C041,카페요시 용인시 처인구,1597462090,카페요시,4.26,164.0,12:20 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1597462090,restaurant,9
+C042,우노커피랩 용인시 처인구,2040177290,우노커피랩,0.0,26.0,,,https://map.naver.com/p/entry/place/2040177290,restaurant,10
+C043,향기가득카페촌 이마트용인점 용인시 처인구,,,,,,,,,0
+C044,그레이핍플 역북점 용인시 처인구,2095878008,그레이핍플 용인역북점,0.0,16.0,09:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/2095878008,restaurant,11
+C045,팜스보드게임 명지대점 용인시 처인구,1416645486,팜스보드게임카페 명지대점,0.0,1255.0,13:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1416645486,restaurant,10
+C046,웰빙카페 용인시 처인구,1358786585,레드브릭101,0.0,232.0,,,https://map.naver.com/p/entry/place/1358786585,restaurant,10
+C047,도노커피 용인시청점 용인시 처인구,1071564020,도노커피 용인시청점,0.0,282.0,08:30 ~ 17:30,17.5,https://map.naver.com/p/entry/place/1071564020,restaurant,7
+C048,복다방 용인시 처인구,1651463073,복다방,0.0,1.0,,,https://map.naver.com/p/entry/place/1651463073,restaurant,0
+C049,슬로 용인시 처인구,1826166263,슬로위치,0.0,16.0,09:30 ~ 16:00,16.0,https://map.naver.com/p/entry/place/1826166263,restaurant,2
+C050,단오 용인시 처인구,1727424626,단오위캔즈,,,10:00 ~ 19:00,19.0,https://map.naver.com/p/entry/place/1727424626,restaurant,0
+C051,애플하우스 용인시 처인구,31378381,애플하우스,4.33,653.0,10:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/31378381,restaurant,9
+C052,아이갓에브리씽 용인교육지원청점 용인시 처인구,1605546979,아이갓에브리씽 용인교육지원청점,0.0,8.0,08:00 ~ 17:00,17.0,https://map.naver.com/p/entry/place/1605546979,restaurant,7
+C053,마스에프앤비 카페 용인시 처인구,,,,,,,,,0
+C054,폴바셋 용인시청DT점 용인시 처인구,1574828301,폴 바셋 용인시청 DT점,0.0,1455.0,08:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1574828301,restaurant,10
+C055,컴포즈커피 용인시청점 용인시 처인구,2054226170,컴포즈커피 용인시청점,0.0,3.0,07:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/2054226170,restaurant,2
+C056,메가MGC커피 용인더트리니호텔점 용인시 처인구,2078608492,메가MGC커피 용인더트리니호텔점,0.0,1.0,08:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/2078608492,restaurant,1
+C057,스타벅스 용인시청DT점 용인시 처인구,3540479,,,,,,https://map.naver.com/p/entry/place/3540479,restaurant,0
+C058,길과사람 용인시 처인구,1117349442,길과사람,0.0,15.0,,,https://map.naver.com/p/entry/place/1117349442,restaurant,6
+C059,그카페그커피 용인시 처인구,1950683474,그 카페 그 커피,0.0,118.0,10:00 ~ 17:00,17.0,https://map.naver.com/p/entry/place/1950683474,restaurant,9
+C060,카페 오굿 용인시 처인구,1213027633,카페 오굿,0.0,112.0,08:30 ~ 21:30,21.5,https://map.naver.com/p/entry/place/1213027633,restaurant,16
+C061,메가MGC커피 삼가역점 용인시 처인구,1342574627,메가MGC커피 삼가역점,0.0,281,08:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1342574627,restaurant,7
+C062,카페9.1 용인시 처인구,1231635420,카페9.1,0.0,9,10:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1231635420,restaurant,1
+C063,커피에반하다 용인삼가역점 용인시 처인구,1049135950,커피에반하다 용인삼가역점,0.0,121,08:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1049135950,restaurant,14
+C064,궁촌커피로스터즈 용인시 처인구,1210281462,궁촌커피로스터즈,4.52,288,09:00 ~ 19:00,19.0,https://map.naver.com/p/entry/place/1210281462,restaurant,8
+C065,처인재 용인시 처인구,2008820163,처인재,0.0,172,08:30 ~ 21:00,21.0,https://map.naver.com/p/entry/place/2008820163,restaurant,10
+C066,카페586 용인시 처인구,1688125276,카페586,4.71,130.0,11:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1688125276,restaurant,10
+C067,프루토리 용인시 처인구,,,,,,,,,0
+C068,피크닉 햄퍼 용인시 처인구,,,,,,,,,0
+C069,트리아농 용인시 처인구,37191645,트리아농,4.22,93.0,10:00 ~ 18:00,18.0,https://map.naver.com/p/entry/place/37191645,restaurant,10
+C070,유베이크샵 용인시 처인구,1700132111,유베이크샵,0.0,305.0,11:00 ~ 18:30,18.5,https://map.naver.com/p/entry/place/1700132111,restaurant,28
+C071,메가MGC커피 명지대역점 용인시 처인구,1018385169,메가MGC커피 명지대역점,0.0,918.0,07:00 ~ 23:00,23.0,https://map.naver.com/p/entry/place/1018385169,restaurant,10
+C072,카페라딘 용인시 처인구,1220325968,카페라딘,4.47,602.0,10:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1220325968,restaurant,9
+C073,카페프리헷 용인역북점 용인시 처인구,1934309850,카페프리헷 용인역북점,,,00:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1934309850,restaurant,0
+C074,카페명암 용인시 처인구,1439471869,카페명암,0.0,118.0,,,https://map.naver.com/p/entry/place/1439471869,restaurant,7
+C075,베이크카페 용인시 처인구,1336880171,베이크로,0.0,109.0,10:00 ~ 18:00,18.0,https://map.naver.com/p/entry/place/1336880171,restaurant,11
+C076,업스테얼즈커피 용인시 기흥구,,,,,,,,,0
+C077,와그와그컴퍼니 용인시 기흥구,1455012300,와그와그컴퍼니,0.0,37.0,11:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1455012300,restaurant,13
+C078,카페다 용인시청점 용인시 처인구,37378849,카페다 용인시청점,4.19,48.0,,,https://map.naver.com/p/entry/place/37378849,restaurant,7
+C079,안녕마루 용인시 처인구,1885770221,"안녕,마루",0.0,948.0,11:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1885770221,restaurant,10
+C080,디어도터 용인시 처인구,1428817371,디어도터,0.0,27.0,09:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1428817371,restaurant,10
+C081,해피타임 용인시 처인구,1177390928,해피타임,4.12,86,10:00 ~ 22:00,22.0,https://map.naver.com/p/entry/place/1177390928,restaurant,1
+C082,더그레이스 용인시 기흥구,2047696623,더그레이스,0.0,1,09:00 ~ 17:30,17.5,https://map.naver.com/p/entry/place/2047696623,restaurant,1
+C083,커스텀커피 중동직영점 용인시 기흥구,1029186063,커스텀커피 중동직영점,4.4,425,09:30 ~ 18:00,18.0,https://map.naver.com/p/entry/place/1029186063,restaurant,10
+C084,용인타이니풀 모래 놀이드로잉 무인키즈카페 용인시 기흥구,1590246988,용인 타이니풀 모래놀이 드로잉 무인키즈카페,0.0,135,10:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1590246988,restaurant,19
+C085,컴포즈커피 용인초당점 용인시 기흥구,1259903676,컴포즈커피 용인초당점,0.0,53,07:30 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1259903676,restaurant,10
+C086,데이롱카페 용인상하점 용인시 기흥구,1766089679,데이롱카페 용인상하점,0.0,19.0,00:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1766089679,restaurant,3
+C087,메가 MGC커피 용인상하쌍용점 용인시 기흥구,1646624793,메가MGC커피 용인상하쌍용점,0.0,93.0,08:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1646624793,restaurant,9
+C088,피크닉제이 용인시 기흥구,1499668433,피크닉제이,0.0,16.0,10:30 ~ 18:30,18.5,https://map.naver.com/p/entry/place/1499668433,restaurant,10
+C089,달달하당 용인시 기흥구,1987582886,달달하당,4.54,162.0,10:00 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1987582886,restaurant,10
+C090,스타벅스 용인상하DT점 용인시 기흥구,3537715,,,,,,https://map.naver.com/p/entry/place/3537715,restaurant,0
+C091,컴포즈커피 용인상하점 용인시 기흥구,1660770367,컴포즈커피 용인상하점,0.0,676.0,08:30 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1660770367,restaurant,10
+C092,상하커피 용인시 기흥구,1640592190,상하커피,0.0,2.0,00:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1640592190,restaurant,1
+C093,더노벰버라운지 기흥점 용인시 기흥구,2036467628,The november 라운지 기흥점,0.0,160.0,07:00 ~ 04:00,28.0,https://map.naver.com/p/entry/place/2036467628,restaurant,10
+C094,데일리아트스토리 용인시 기흥구,2029563081,하나은행365 데일리아트스토리 ATM,,,00:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/2029563081,restaurant,0
+C095,레디쉬드롭 용인시 기흥구,1655601903,레디쉬드롭커피로스터스,0.0,197.0,11:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/1655601903,restaurant,10
+C096,카페베레카 용인시 기흥구,1162393198,카페베레카 용인상하점,0.0,6,10:30 ~ 20:00,20.0,https://map.naver.com/p/entry/place/1162393198,restaurant,6
+C097,카페그라시아 용인시 기흥구,1084322132,카페 그라시아(Cafe Gratia),0.0,241,10:30 ~ 16:00,16.0,https://map.naver.com/p/entry/place/1084322132,restaurant,8
+C098,용인 애견 카페 용인 애견운동장 멍스퀘어 용인시 기흥구,1629901755,용인 애견카페 애견운동장 멍스퀘어,0.0,124,00:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1629901755,restaurant,15
+C099,카페봄 용인시 기흥구,2094292442,카페봄,0.0,43,11:00 ~ 21:00,21.0,https://map.naver.com/p/entry/place/2094292442,restaurant,10
+C100,카페인24 용인써니밸리점 용인시 기흥구,1136877706,카페인24 용인써니밸리점,0.0,1,00:00 ~ 24:00,24.0,https://map.naver.com/p/entry/place/1136877706,restaurant,1
